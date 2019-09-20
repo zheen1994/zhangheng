@@ -1,6 +1,0 @@
-﻿这是第一行a
-这是第二行b
-Git has a mutable index called stage.
-Git tracks changes.
-Git tracks changes of files.
-Creating a new branch is quick.
